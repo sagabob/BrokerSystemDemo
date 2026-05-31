@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 .containers
-*/appsettings.Development.json
+**/appsettings.Development.json
