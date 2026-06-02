@@ -9,4 +9,5 @@
     <Project Path="BankingConsumer2/BankingConsumer2.csproj" Id="ae1f8940-faf4-4649-b5f7-4ed9b6522b7c" />
     <Project Path="BankingProducer/BankingProducer.csproj" Id="0ed50dd0-4c1e-464a-8263-9a5ce09ec3e5" />
   </Folder>
+  <Folder Name="/src/Kafka/" />
 </Solution>
