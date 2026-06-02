@@ -1,13 +1,3 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="KafkaConsumer1/KafkaConsumer1.csproj" />
-    <Project Path="KafkaConsumer2/KafkaConsumer2.csproj" Id="a61e571a-911a-4af0-a7c9-f42b6c201138" />
-    <Project Path="KafkaProducer1/KafkaProducer1.csproj" />
-  </Folder>
-  <Folder Name="/src/Banking/">
-    <Project Path="BankingConsumer1/BankingConsumer1.csproj" Id="e29cdac4-6c3f-48eb-bd33-62f88af25def" />
-    <Project Path="BankingConsumer2/BankingConsumer2.csproj" Id="ae1f8940-faf4-4649-b5f7-4ed9b6522b7c" />
-    <Project Path="BankingProducer/BankingProducer.csproj" Id="0ed50dd0-4c1e-464a-8263-9a5ce09ec3e5" />
-  </Folder>
   <Folder Name="/src/Kafka/" />
 </Solution>
